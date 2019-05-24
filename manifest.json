@@ -1,16 +1,14 @@
 {
   "short_name": "wpt",
   "name": "transit",
-  "icons": [
-    {
-      "src": "fun-icon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ],
-  "start_url": "/wpt/",
+  "icons": [{
+    "src": "fun-icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/IamAbhii/wpt/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/wpt/",
+  "scope": "/IamAbhii/wpt/",
   "theme_color": "#3367D6"
 }
